@@ -107,7 +107,7 @@
 
 |                 장바구니 화면                  |               장바구니 물품 추가               |            장바구니 물품 추가 확인            |
 | :--------------------------------------------: | :--------------------------------------------: | :-------------------------------------------: |
-| ![predict_1](https://i.imgur.com/MPExYBp.jpeg) | ![predict_2](https://i.imgur.com/cMtTqN5.jpeg) | ![predict_3](https://i.imgur.com/W9RYNXe.png) |
+| ![predict_1](https://i.imgur.com/MPExYBp.jpeg) | ![predict_2](https://i.imgur.com/cMtTqN5.jpeg) | ![IMG_7353](https://github.com/user-attachments/assets/6dc7501a-3700-4328-af93-3a28c1735c32) |
 
 ### 재활용
 
