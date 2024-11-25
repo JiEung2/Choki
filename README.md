@@ -1,6 +1,6 @@
 # 🐥🧺 우리 아이 안전한 심부름 도우미 [초키] (chore+kids)
 
-![main](assets/main.png)
+![image.png](./image.png)
 
 ## Index
 
