@@ -1,0 +1,58 @@
+{
+	"name": "초키",
+	"short_name": "choki",
+	"description": "아이들을 위한 심부름 도우미",
+	"theme_color": "#ffc211",
+	"background_color": "#ffffff",
+	"display": "standalone",
+	"scope": "/",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "/maskable_icon_x512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/maskable_icon_x384.png",
+			"sizes": "384x384",
+			"type": "image/png",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/any_icon_x192.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "any"
+		},
+		{
+			"src": "/any_icon_x128.png",
+			"sizes": "128x128",
+			"type": "image/png",
+			"purpose": "any"
+		},
+		{
+			"src": "/maskable_icon_x96.png",
+			"sizes": "96x96",
+			"type": "image/png",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/any_icon_x72.png",
+			"sizes": "72x72",
+			"type": "image/png",
+			"purpose": "any"
+		},
+		{
+			"src": "/maskable_icon_x48.png",
+			"sizes": "48x48",
+			"type": "image/png",
+			"purpose": "maskable"
+		}
+	],
+	"orientation": "portrait",
+	"lang": "ko",
+	"id": "choki",
+	"categories": ["education", "entertainment", "kids"]
+}
